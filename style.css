@@ -116,6 +116,14 @@ body {
     margin-left: 30px;
 }
 
+.card-pricing1 {
+    background-image: url('assets/img/Card\ Background.svg');
+    width: 380px;
+    height: 380px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
 .card-pricing {
     background-image: url('assets/img/Card\ Background.svg');
     width: 380px;
@@ -298,5 +306,9 @@ body {
 
     .order-md-3 {
         margin-top: 30px;
+    }
+
+    .txt-footer1 {
+        font-size: 30px;
     }
 }
