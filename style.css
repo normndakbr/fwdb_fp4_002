@@ -112,8 +112,9 @@ body {
 }
 
 .price {
-    align-items: center;
     margin-left: 30px;
+    display: flex;
+    justify-content: center;
 }
 
 .card-pricing1 {
@@ -306,9 +307,5 @@ body {
 
     .order-md-3 {
         margin-top: 30px;
-    }
-
-    .txt-footer1 {
-        font-size: 30px;
     }
 }
