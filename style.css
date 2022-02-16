@@ -309,3 +309,17 @@ body {
         margin-top: 30px;
     }
 }
+
+@media only screen and (max-width: 600px) {
+    .btn-submit {
+        left: 430px;
+        top: 190px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .btn-submit {
+        left: 430px;
+        top: 195px;
+    }
+}
